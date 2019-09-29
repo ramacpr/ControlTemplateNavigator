@@ -1,0 +1,16 @@
+D:\Projects\C#\MyProjects\TypeTemplateNavigator\TypeTemplateNavigator\TypeTemplateNavigator\bin\Debug\TypeTemplateNavigator.exe.config
+D:\Projects\C#\MyProjects\TypeTemplateNavigator\TypeTemplateNavigator\TypeTemplateNavigator\bin\Debug\TypeTemplateNavigator.exe
+D:\Projects\C#\MyProjects\TypeTemplateNavigator\TypeTemplateNavigator\TypeTemplateNavigator\bin\Debug\TypeTemplateNavigator.pdb
+D:\Projects\C#\MyProjects\TypeTemplateNavigator\TypeTemplateNavigator\TypeTemplateNavigator\obj\Debug\TypeTemplateNavigator.csprojAssemblyReference.cache
+D:\Projects\C#\MyProjects\TypeTemplateNavigator\TypeTemplateNavigator\TypeTemplateNavigator\obj\Debug\MainWindow.g.cs
+D:\Projects\C#\MyProjects\TypeTemplateNavigator\TypeTemplateNavigator\TypeTemplateNavigator\obj\Debug\App.g.cs
+D:\Projects\C#\MyProjects\TypeTemplateNavigator\TypeTemplateNavigator\TypeTemplateNavigator\obj\Debug\TypeTemplateNavigator_MarkupCompile.cache
+D:\Projects\C#\MyProjects\TypeTemplateNavigator\TypeTemplateNavigator\TypeTemplateNavigator\obj\Debug\TypeTemplateNavigator_MarkupCompile.lref
+D:\Projects\C#\MyProjects\TypeTemplateNavigator\TypeTemplateNavigator\TypeTemplateNavigator\obj\Debug\MainWindow.baml
+D:\Projects\C#\MyProjects\TypeTemplateNavigator\TypeTemplateNavigator\TypeTemplateNavigator\obj\Debug\TypeTemplateNavigator.g.resources
+D:\Projects\C#\MyProjects\TypeTemplateNavigator\TypeTemplateNavigator\TypeTemplateNavigator\obj\Debug\TypeTemplateNavigator.Properties.Resources.resources
+D:\Projects\C#\MyProjects\TypeTemplateNavigator\TypeTemplateNavigator\TypeTemplateNavigator\obj\Debug\TypeTemplateNavigator.csproj.GenerateResource.cache
+D:\Projects\C#\MyProjects\TypeTemplateNavigator\TypeTemplateNavigator\TypeTemplateNavigator\obj\Debug\TypeTemplateNavigator.csproj.CoreCompileInputs.cache
+D:\Projects\C#\MyProjects\TypeTemplateNavigator\TypeTemplateNavigator\TypeTemplateNavigator\obj\Debug\TypeTemplateNavigator.exe
+D:\Projects\C#\MyProjects\TypeTemplateNavigator\TypeTemplateNavigator\TypeTemplateNavigator\obj\Debug\TypeTemplateNavigator.pdb
+D:\Projects\C#\MyProjects\TypeTemplateNavigator\TypeTemplateNavigator\TypeTemplateNavigator\obj\Debug\copied.baml
